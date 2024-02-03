@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Lines&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Broken+Fax&display=swap');
+a {
+    cursor: pointer;
+}
+
+
+.activeLink {
+    color: black;
+}
+
+#headphonesH1 {
+    /* font-family: 'Rubik Lines', system-ui; */
+    font-family: 'Rubik Maps', system-ui;
+}
+
+h1 .ClothsH1{
+    font-family: 'Rubik Maps', system-ui;
+}
+
+h1 .ShoesH1{
+}
+
+.react-multiple-carousel__arrow--right{
+    background-color: black !important;
+    z-index: 10;
+}
+.react-multiple-carousel__arrow--left{
+    background-color: black !important;
+    z-index: 10;
+}

@@ -1,0 +1,12 @@
+This folder contains files that were contributed either internal or
+external but are currently not maintained and no plans by the
+maintainers to maintain them.  You must download the files in this
+directory and extract them to the appropriate directories manually.  It
+is therefore recommended that you do not use these files but they are
+provided for historical reasons.
+
+  If you wish to take a package and maintain it then please use
+  mingw-users@lists.sourceforge.net to convey that fact and the
+  maintainers will be in touch with you.  Contributed packages must
+  conform to MinGW package standards by using mgwport to do the
+  packaging.
